@@ -13,4 +13,16 @@ pip install -r requirements.txt
 
 git clone https://github.com/AdlightAkinyi/personal-blog.git
 
+# Technologies 
+
+Python3
+
+Flask
+
+Html5
+
+CSS
+
+Bootstrap4
+
 
