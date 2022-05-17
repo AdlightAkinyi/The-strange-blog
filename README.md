@@ -25,4 +25,8 @@ CSS
 
 Bootstrap4
 
+# Runing the app 
+
+python3.8 manage.py
+
 
