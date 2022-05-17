@@ -29,4 +29,9 @@ Bootstrap4
 
 python3.8 manage.py
 
+# Testing the app
+
+python3.8 manage.py test
+
+
 
