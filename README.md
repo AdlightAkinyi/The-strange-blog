@@ -6,3 +6,9 @@ This a personal blogging website where a user can create and share their opinion
 # Author
 
 Adlight Akinyi
+
+# Set-up/installation requirements
+
+python3
+
+
