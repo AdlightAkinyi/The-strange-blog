@@ -33,7 +33,7 @@ python3.8 manage.py
 
 python3.8 manage.py test
 
-User story
+ # User story
 
 As a user, I would like to view the blog posts on the site
 
