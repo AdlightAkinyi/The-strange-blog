@@ -33,5 +33,7 @@ python3.8 manage.py
 
 python3.8 manage.py test
 
+# Support and Contact details
 
+adlightakinyi1@gmail.com
 
