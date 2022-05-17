@@ -9,6 +9,6 @@ Adlight Akinyi
 
 # Set-up/installation requirements
 
-python3
+pip install -r requirements.txt
 
 
