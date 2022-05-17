@@ -11,4 +11,6 @@ Adlight Akinyi
 
 pip install -r requirements.txt
 
+git clone https://github.com/AdlightAkinyi/personal-blog.git
+
 
