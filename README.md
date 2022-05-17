@@ -60,8 +60,8 @@ adlightakinyi1@gmail.com
 
 # Licence
 
-
-AdlightAkinyi/personal-blog is licensed under the
+AdlightAkinyi/The-strange-blog is licensed under the
 
 MIT License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
